@@ -15,6 +15,7 @@ public class Main {
 
             System.out.println("The reverse of the given string is: " + str);
             System.out.println("Hey there, im here");
+            System.out.println("Nice to meet you");
         }
     }
 
